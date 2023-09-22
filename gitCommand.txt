@@ -1,0 +1,15 @@
+GIT Tutorial
+============
+--> installed the git and check the version (git --version)
+--> check the configurations (git config --global --list)
+How to set the values command
+--> git config --global user.name "raju"
+--> git config --global user.email ""
+--> git status
+--> git -b main
+--> git add file_name(untraked file to tracked file)
+--> git log (check the all initial commits)
+--> git commit -m "massage" OR git commit -a -m "massage"
+--> git log(check for who is the author of commit)
+--> 
+-->
